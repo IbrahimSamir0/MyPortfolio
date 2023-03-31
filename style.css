@@ -4,7 +4,7 @@ html {
 
 body {
   overflow: hidden;
-  background: #834fbe url("../img/bg.jpg") no-repeat center center fixed;
+  background: url("background.jpg") no-repeat center center fixed;
   background-size: cover;
   position: fixed;
   padding: 0px;
@@ -54,7 +54,7 @@ p {
 }
 
 .profile-card {
-  background: #834fbe;
+  background: #8600a8;
   width: 56px;
   height: 56px;
   position: absolute;
@@ -297,7 +297,7 @@ p {
 
 @-webkit-keyframes moveUp {
   0% {
-    background: #834fbe;
+    background: #8600a8;
     top: 100%;
   }
   50% {
@@ -311,7 +311,7 @@ p {
 
 @keyframes moveUp {
   0% {
-    background: #834fbe;
+    background: #8600a8;
     top: 100%;
   }
   50% {
